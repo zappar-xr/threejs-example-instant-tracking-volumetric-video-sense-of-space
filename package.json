@@ -30,7 +30,7 @@
   "dependencies": {
     "@types/three": "0.134.0",
     "@zappar/splash": "0.0.0-rc.1",
-    "@zappar/zappar-threejs": "^2.0.0-beta.8",
+    "@zappar/zappar-threejs": "^2.0.0-beta.10",
     "three": "0.128.0"
   }
 }
