@@ -8,7 +8,7 @@
 import * as THREE from 'three';
 import * as ZapparThree from '@zappar/zappar-threejs';
 import { showUI } from '@zappar/splash';
-import './index.sass';
+import './index.css';
 
 const logo = new URL('../assets/logo.png', import.meta.url).href;
 const hotspotImg = new URL('../assets/hotspot.png', import.meta.url).href;
